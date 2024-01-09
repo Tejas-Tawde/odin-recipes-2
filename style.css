@@ -1,0 +1,12 @@
+img{
+    height: 200px;
+    width: auto;
+}
+
+.title{
+    background-color: green;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+}
