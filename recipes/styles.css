@@ -1,0 +1,39 @@
+.title,
+.description,
+.ingredients{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.title{
+    background-color: green;
+    
+}
+
+.description{
+    background-color: orange;
+
+}
+
+.ingredients{
+    background-color: aqua;
+}
+
+
+ol,
+ul{
+    text-align: start;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+img{
+    height: 300px;
+    width: auto;
+}
