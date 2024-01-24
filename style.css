@@ -3,6 +3,11 @@ img{
     width: auto;
 }
 
+div{
+    display: flex;
+    justify-content: center;
+}
+
 .title{
     background-color: green;
     color: white;
